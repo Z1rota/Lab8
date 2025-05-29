@@ -1,0 +1,3 @@
+db.url=jdbc:postgresql://localhost:5433/studs
+db.user=s467507
+db.password=vaAsaA4OrBpoHq9D
